@@ -1,0 +1,2 @@
+# No external dependencies for Phase I
+# Pure Python implementation with standard library only
